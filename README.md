@@ -1,2 +1,2 @@
 # myfirstrepo
- First Github Repository
+ First Github Repository. A really cool repository!
